@@ -261,6 +261,6 @@
         </ui:Target>
       </ui:Click.Target>
     </ui:Click>
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="353.6,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Done / Sure ! Solicitação Encaminhada para Sr. André...&quot;]" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="353.6,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Done / Sure !!!! Solicitação Encaminhada para Sr. André...&quot;]" />
   </Sequence>
 </Activity>
